@@ -1,0 +1,14 @@
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\obj\Debug\net8.0\aslp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\obj\Debug\net8.0\aslp.AssemblyInfoInputs.cache
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\obj\Debug\net8.0\aslp.AssemblyInfo.cs
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\obj\Debug\net8.0\aslp.csproj.CoreCompileInputs.cache
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\bin\Debug\net8.0\aslp.exe
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\bin\Debug\net8.0\aslp.deps.json
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\bin\Debug\net8.0\aslp.runtimeconfig.json
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\bin\Debug\net8.0\aslp.dll
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\bin\Debug\net8.0\aslp.pdb
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\obj\Debug\net8.0\aslp.dll
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\obj\Debug\net8.0\refint\aslp.dll
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\obj\Debug\net8.0\aslp.pdb
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\obj\Debug\net8.0\aslp.genruntimeconfig.cache
+C:\Users\55519\OneDrive\Área de Trabalho\LAB-PROG\aslp\obj\Debug\net8.0\ref\aslp.dll
